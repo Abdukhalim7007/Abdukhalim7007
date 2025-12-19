@@ -6,21 +6,13 @@
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,graphql,postgres,sqlite,mongodb,python,git,github,postman&perline=9"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,graphql,postgres,sqlite,mongodb,python,git,github,postman&perline=7"
     alt="Tech Stack"
-    style="height:80px;"
+    style="height:120px; width:auto; max-width:100%;"
   />
 </div>
 
 ---
-
-<div align="center">
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdukhalim7007&theme=tokyonight&v=3"
-    alt="GitHub Stats Card"
-  />
-</div>
 
 <br/>
 
